@@ -13,6 +13,7 @@
 		4FA4DE8428E7CC500017AF2A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4FA4DE8228E7CC500017AF2A /* Main.storyboard */; };
 		4FA4DE8628E7CC530017AF2A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4FA4DE8528E7CC530017AF2A /* Assets.xcassets */; };
 		4FA4DE8928E7CC550017AF2A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4FA4DE8728E7CC550017AF2A /* LaunchScreen.storyboard */; };
+		4FA4DE9128E7CC7D0017AF2A /* Sounds in Resources */ = {isa = PBXBuildFile; fileRef = 4FA4DE9028E7CC7D0017AF2A /* Sounds */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		4FA4DE8528E7CC530017AF2A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4FA4DE8828E7CC550017AF2A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4FA4DE8A28E7CC580017AF2A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4FA4DE9028E7CC7D0017AF2A /* Sounds */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Sounds; path = "../../../Downloads/XylophoneApp-master/Xylophone/Sounds"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,9 +62,10 @@
 				4FA4DE7E28E7CC500017AF2A /* SceneDelegate.swift */,
 				4FA4DE8028E7CC500017AF2A /* ViewController.swift */,
 				4FA4DE8228E7CC500017AF2A /* Main.storyboard */,
-				4FA4DE8528E7CC530017AF2A /* Assets.xcassets */,
 				4FA4DE8728E7CC550017AF2A /* LaunchScreen.storyboard */,
+				4FA4DE8528E7CC530017AF2A /* Assets.xcassets */,
 				4FA4DE8A28E7CC580017AF2A /* Info.plist */,
+				4FA4DE9028E7CC7D0017AF2A /* Sounds */,
 			);
 			path = SimplyPiano;
 			sourceTree = "<group>";
@@ -127,6 +130,7 @@
 			files = (
 				4FA4DE8928E7CC550017AF2A /* LaunchScreen.storyboard in Resources */,
 				4FA4DE8628E7CC530017AF2A /* Assets.xcassets in Resources */,
+				4FA4DE9128E7CC7D0017AF2A /* Sounds in Resources */,
 				4FA4DE8428E7CC500017AF2A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
